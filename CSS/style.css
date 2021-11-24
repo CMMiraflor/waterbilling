@@ -1,0 +1,157 @@
+
+
+.error{
+    
+    padding: 5px;
+    border-radius: 5px;
+    color: #A94442;
+    text-align: center;
+    background: #F2DEDE;
+
+}
+.diverror{
+    
+    margin-right: 222px;
+    margin-left: 38px;
+}
+.contain{
+    width: 400px;
+    height: 650px;
+    background-color: rgb(255, 255, 255); 
+   
+   margin: auto;
+   margin-top: 0%;
+ 
+ }
+ .background{
+   width: 1350px;
+   height: 650px;
+   background-color: rgb(255, 255, 255); 
+  margin-top: 0%;
+  float: left;
+  
+ 
+ }
+ .uname{
+   margin-top: 20px;
+   width: 300px;
+   height: 40px;
+ }
+ 
+ .pass{
+   margin-top: 20px;
+   width: 300px;
+   height: 40px;
+ }
+ 
+ .loginbtn{
+   background-color: #0051ff;
+ 
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+  
+   width: 305px;
+   margin-top: 15px;
+   cursor: pointer;
+ 
+   font-weight: bold;
+   font-size: 20px;
+  
+   font-family: 'Open Sans', sans-serif; 
+ }
+ 
+ 
+ .loginbtn:hover {
+   background-color: #fbff00;
+   color: rgb(0, 0, 0);
+ }
+ 
+ .bodycontain{
+   width: 800px;
+   height:400px;
+   background-color: #0051ff; 
+ float: right;
+ }
+ 
+ 
+ .logo{
+   width: 200px;
+   height:200px;
+   background-color: rgb(255, 255, 255);
+   margin-top: 80px;
+   margin-bottom: 0%;
+ 
+ }
+ 
+ 
+ .forgot{
+   font-weight: normal;
+   font-size: 13px;
+   margin-top: 100px;
+   font-family: 'Open Sans', sans-serif; 
+ margin-right: 200px;
+ 
+ 
+ }
+ .txt{
+   font-weight: 700;
+   font-size: 90px;
+   line-height: 80px;
+   margin-top: 70px;
+   color: white;
+   font-family: 'Open Sans', sans-serif; 
+ margin-left: 60px;
+ margin-bottom: 0%;
+ 
+ 
+ }
+ .txt2{
+   font-weight: 300;
+   font-size: 20px;
+ 
+   margin-top: 3px;
+   color: white;
+   font-family: 'Open Sans', sans-serif; 
+ margin-left: 480px;
+ 
+ 
+ }
+ 
+ .line{
+   width: 420px;
+   height:10px;
+   margin-top: 15px;
+   background-color: #ffffff; 
+ float: left;
+ margin-left: 53px;
+ }
+ 
+ .txt3{
+   font-weight: 400;
+   font-size: 50px;
+ 
+   margin-top: 50px;
+   color: white;
+   font-family: 'Open Sans', sans-serif; 
+ margin-left: 60px;
+ margin-bottom: 0%;
+ 
+ 
+ }
+ .txt4{
+   font-weight: 300;
+   font-size: 30px;
+ margin-bottom: 0%;
+   margin-top: 10px;
+   color: rgb(51, 51, 51);
+   font-family: 'Open Sans', sans-serif; 
+ 
+ 
+ 
+ }
+
+
